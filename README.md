@@ -1,4 +1,7 @@
-# test coverage for  [medium-editor (v5.23.0)](http://yabwe.github.io/medium-editor/)  [![npm package](https://img.shields.io/npm/v/npmtest-medium-editor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-medium-editor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-medium-editor.svg)](https://travis-ci.org/npmtest/node-npmtest-medium-editor)
+# npmtest-medium-editor
+
+#### test coverage for  [medium-editor (v5.23.0)](http://yabwe.github.io/medium-editor/)  [![npm package](https://img.shields.io/npm/v/npmtest-medium-editor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-medium-editor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-medium-editor.svg)](https://travis-ci.org/npmtest/node-npmtest-medium-editor)
+
 #### Medium.com WYSIWYG editor clone.
 
 [![NPM](https://nodei.co/npm/medium-editor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/medium-editor)
